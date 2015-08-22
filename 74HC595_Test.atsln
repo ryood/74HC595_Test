@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "74HC595_Test", "74HC595_Test\74HC595_Test.cproj", "{CB6105E4-E565-4C4A-84FD-0B9674A9D013}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "74HC595_SPI_Test", "74HC595_SPI_Test\74HC595_SPI_Test.cproj", "{D729ACE6-1CD4-4275-9033-D72A137B3DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB6105E4-E565-4C4A-84FD-0B9674A9D013}.Debug|AVR.ActiveCfg = Debug|AVR
+		{CB6105E4-E565-4C4A-84FD-0B9674A9D013}.Debug|AVR.Build.0 = Debug|AVR
+		{CB6105E4-E565-4C4A-84FD-0B9674A9D013}.Release|AVR.ActiveCfg = Release|AVR
+		{CB6105E4-E565-4C4A-84FD-0B9674A9D013}.Release|AVR.Build.0 = Release|AVR
+		{D729ACE6-1CD4-4275-9033-D72A137B3DDE}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D729ACE6-1CD4-4275-9033-D72A137B3DDE}.Debug|AVR.Build.0 = Debug|AVR
+		{D729ACE6-1CD4-4275-9033-D72A137B3DDE}.Release|AVR.ActiveCfg = Release|AVR
+		{D729ACE6-1CD4-4275-9033-D72A137B3DDE}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
